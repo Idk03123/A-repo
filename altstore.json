@@ -10,7 +10,8 @@
       "version": "3.8.2",
       "iconURL": "https://i.imgur.com/MjzfVKd.png",
       "tintColor": "#4CAF50",
-      "installURL": "https://ipogo.app/download/ipogo-3.8.3.ipa"
+      "installURL": "https://ipogo.app/download/ipogo-3.8.3.ipa",
+      "type": "ios"
     },
     {
       "name": "AltStore",
@@ -18,9 +19,21 @@
       "developerName": "Riley Testut",
       "subtitle": "AltStore Installer",
       "version": "1.7.0",
-      "iconURL": "https://i.ibb.co/XYZ123/altstoreicon.png",
+      "iconURL": "https://i.imgur.com/U4qjXyZ.png",
       "tintColor": "#007AFF",
-      "installURL": "https://example.com/altstore.ipa"
+      "installURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
+      "type": "ios"
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "subtitle": "Minecraft Bedrock",
+      "version": "1.16.0",
+      "iconURL": "https://i.imgur.com/BdbdZZv.png",
+      "tintColor": "#00BFFF",
+      "installURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
+      "type": "ios"
     }
   ]
 }
